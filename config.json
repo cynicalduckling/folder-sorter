@@ -1,67 +1,36 @@
 {
-    "path": "C:\\Users\\rohit\\Downloads",
-    "categories": {
-        "Documents": [
-            "pdf",
-            "fdmdownload",
-            "xls",
-            "docx",
-            "otf",
-            "doc",
-            "zip",
-            "csv",
-            "txt",
-            "paper",
-            "xlsx",
-            "rar"
-        ],
-        "Images": [
-            "jpg",
-            "png",
-            "jpeg",
-            "svg",
-            "img",
-            "psd",
-            "bmp"
-        ],
-        "Videos": [
-            "mp4",
-            "mkv",
-            "gif",
-            "avi",
-            "avchd",
-            "flv",
-            "f4v",
-            "swf",
-            "mov"
-        ],
-        "Executables": [
-            "exe",
-            "msi"
-        ],
-        "Code": [
-            "js",
-            "py",
-            "ipynb",
-            "json",
-            "env",
-            "yml",
-            "yaml"
-        ],
-        "Subtitles": [
-            "srt"
-        ],
-        "Tableau": [
-            "twb",
-            "tbm",
-            "twbx",
-            "hyper",
-            "tdsx",
-            "tds"
-        ],
-        "Power BI": [
-            "pbix",
-            "pbit"
-        ]
-    }
+  "path": "C:\\Users\\rohit\\Downloads",
+  "categories": {
+    "_documents": [
+      "pdf",
+      "fdmdownload",
+      "xls",
+      "docx",
+      "otf",
+      "doc",
+      "zip",
+      "csv",
+      "txt",
+      "paper",
+      "xlsx",
+      "rar"
+    ],
+    "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp"],
+    "_videos": [
+      "mp4",
+      "mkv",
+      "gif",
+      "avi",
+      "avchd",
+      "flv",
+      "f4v",
+      "swf",
+      "mov"
+    ],
+    "_executables": ["exe", "msi"],
+    "_code": ["js", "py", "ipynb", "json", "env", "yml", "yaml"],
+    "_subtitles": ["srt"],
+    "_tableau": ["twb", "tbm", "twbx", "hyper", "tdsx", "tds"],
+    "_powerbi": ["pbix", "pbit"]
+  }
 }
