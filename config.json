@@ -1,5 +1,5 @@
 {
-  "path": "C:\\Users\\rohit\\Downloads",
+  "path": "C:\\Users\\Rohith.Seby\\Downloads",
   "categories": {
     "_documents": [
       "pdf",
@@ -13,8 +13,10 @@
       "txt",
       "paper",
       "xlsx",
-      "rar"
+      "rar",
+      "pptx"
     ],
+    "_emails":["msg"],
     "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp"],
     "_videos": [
       "mp4",
@@ -28,7 +30,7 @@
       "mov"
     ],
     "_executables": ["exe", "msi"],
-    "_code": ["js", "py", "ipynb", "json", "env", "yml", "yaml"],
+    "_code": ["js", "py","ps1", "ipynb", "json", "env", "yml", "yaml", "ts", "tsx", "html", "dbc", "bash"],
     "_subtitles": ["srt"],
     "_tableau": ["twb", "tbm", "twbx", "hyper", "tdsx", "tds"],
     "_powerbi": ["pbix", "pbit"]
