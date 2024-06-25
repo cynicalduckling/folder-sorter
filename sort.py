@@ -14,9 +14,11 @@ for dir in config["categories"].keys():
 files = [_ for _ in os.listdir(path) if os.path.isfile(os.path.join(path, _))]
 
 categories = [
-    cat_mapper[file.split(".")[-1]]
-    if file.split(".")[-1] in cat_mapper.keys()
-    else "_other"
+    (
+        cat_mapper[file.split(".")[-1]]
+        if file.split(".")[-1] in cat_mapper.keys()
+        else "_other"
+    )
     for file in files
 ]
 
@@ -25,7 +27,7 @@ for category in categories:
     os.mkdir(os.path.join(path, category)) if not os.path.exists(folderpath) else None
 
 for file in files:
-    extension = file.split(".")[-1]
+    extension = file.split(".")[-1].lower()
     src = os.path.join(path, file)
     if extension in cat_mapper:
         dst = os.path.join(path, cat_mapper[extension], file)
