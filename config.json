@@ -14,11 +14,8 @@
       "paper",
       "xlsx",
       "rar",
-<<<<<<< HEAD
-	"zip"
-=======
+      "zip",
       "pptx"
->>>>>>> aceee34168a529c9104cb61182a77e4a778d911d
     ],
     "_emails":["msg"],
     "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp"],
@@ -34,11 +31,7 @@
       "mov"
     ],
     "_executables": ["exe", "msi"],
-<<<<<<< HEAD
-    "_code": ["js", "py", "ipynb", "json", "env", "yml", "yaml", "html"],
-=======
     "_code": ["js", "py","ps1", "ipynb", "json", "env", "yml", "yaml", "ts", "tsx", "html", "dbc", "bash"],
->>>>>>> aceee34168a529c9104cb61182a77e4a778d911d
     "_subtitles": ["srt"],
     "_tableau": ["twb", "tbm", "twbx", "hyper", "tdsx", "tds"],
     "_powerbi": ["pbix", "pbit"]
