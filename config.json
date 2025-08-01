@@ -1,0 +1,36 @@
+{
+    "_documents": [
+      "pdf",
+      "fdmdownload",
+      "xls",
+      "docx",
+      "otf",
+      "doc",
+      "zip",
+      "csv",
+      "txt",
+      "paper",
+      "xlsx",
+      "rar",
+      "zip",
+      "pptx"
+    ],
+    "_emails":["msg"],
+    "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp"],
+    "_videos": [
+      "mp4",
+      "mkv",
+      "gif",
+      "avi",
+      "avchd",
+      "flv",
+      "f4v",
+      "swf",
+      "mov"
+    ],
+    "_executables": ["exe", "msi"],
+    "_code": ["js", "py","ps1", "ipynb", "json", "env", "yml", "yaml", "ts", "tsx", "html", "dbc", "bash"],
+    "_subtitles": ["srt"],
+    "_tableau": ["twb", "tbm", "twbx", "hyper", "tdsx", "tds"],
+    "_powerbi": ["pbix", "pbit"]
+  }
