@@ -16,7 +16,7 @@
     "pptx"
   ],
   "_emails": ["msg"],
-  "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp"],
+  "_images": ["jpg", "png", "jpeg", "svg", "img", "psd", "bmp", "webp", "tiff"],
   "_videos": ["mp4", "mkv", "gif", "avi", "avchd", "flv", "f4v", "swf", "mov"],
   "_executables": [
     "exe",
